@@ -1,28 +1,26 @@
-title: Hello, world! I'm David Freeman
+title: Hi, I'm Rob Unger!
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just another Microsoft 365 blog covering Identity, Security and more 
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://robunger.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Rob Unger # add your name
+author-img: rob-unger.png # add your photo
+about-author: I'm a senior technical consultant, working for a leading UK Microsoft partner. I focus is mostly Identity and Security. All views and opinions are my own # add description
+social-twitter: r0bUn # add your Twitter handle
+social-github: r0bu # add your Github handle
+social-linkedin: rob-u # add your Linkedin handle
+#social-facebook: # add your Facebook handle
+#social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-163496078-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
